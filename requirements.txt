@@ -1,0 +1,7 @@
+requests
+urllib3
+Flask
+push-receiver
+rustplus
+python-dotenv
+git+https://github.com/olijeffers0n/rustplus.git
